@@ -1,4 +1,4 @@
-#spr
+#spr123321
 
 # 1p-Napisz skrypt co wygeneruje 20 liczb pierwszych w pliku tekstowym ppp.txt. 
 
